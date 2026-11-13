@@ -52,6 +52,7 @@ forward(200)
 end_fill()
  #draw windows
 
+
 penup()
 goto(15,100)
 left(120)
